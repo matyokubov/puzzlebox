@@ -1,0 +1,18 @@
+{
+    "about": {
+        "game": "Bu o'yinda 10 ta yuk va 2 ta maydon bo'ladi.\nVazifangiz - har bir qizil maydon (quti) uchun yuklarni taqsimlash.\nYani a = x+y+z+n bo'lsa x,y,z,n ni toping.",
+        "tutorial": "..."
+    },
+    "nums-xy": [
+        [450, 50], 
+        [450, 130], 
+        [450, 210], 
+        [450, 290], 
+        [450, 370], 
+        [370, 50], 
+        [370, 130], 
+        [370, 210], 
+        [370, 290], 
+        [370, 370]
+    ]
+}
