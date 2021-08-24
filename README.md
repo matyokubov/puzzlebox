@@ -1,2 +1,2 @@
-# puzzlebox-game
+# Puzzlebox
 Python pygame da yasagan boshqotirma o'yinim
